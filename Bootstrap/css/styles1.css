@@ -1,0 +1,92 @@
+body{
+    font-family: "Montserrat";
+}
+/* Title section */
+#title{
+    background-color:#632626;
+}
+.navbar-brand{
+    /* padding-left: 20px; */
+    font-family: "Mochiy Pop P One";
+    font-size: 200%;
+    color: purple;
+}
+.img-fluid{
+    width: 1519px;
+}
+/* Pricing */
+#pricing{
+    padding: 7% 7%;
+    background-color: white;
+}
+h2{
+    font-size: 250%;
+}
+.center-head{
+    text-align: center;
+    padding-bottom: 2%;
+}
+.pricing-column{
+    padding: 4% 2%;
+}
+.center{
+    text-align: center;
+    font-family: "Lobster";
+    font-size: 200%;
+}
+p{
+    font-size: 100%;
+}
+/* Testimonial */
+.review{
+    padding-top: 50px;
+    font-family:  "Mochiy Pop P One";
+}
+.fast{
+    padding-top: 40px;
+    font-size: 250%;
+}
+#testimonial{
+    color: black;
+    background-color: #D3E4CD;
+    text-align: center;
+    line-height: 2;
+}
+.testimonial-image{
+    width: 10%;
+    margin-bottom: 70px;
+    border-radius: 50%;  
+}
+.testimonial-text{
+    padding: 7% 15%;
+}
+@media (max-width:400px){
+    .testimonial-text{
+        font-size: 70%;
+    }
+ }
+.head{
+    padding: 35px 1%;
+    font-family: "Montserrat" ;
+    font-weight: bold;
+    color: #270082;
+    text-align: center;
+}
+.Corol{
+    color: black;
+}
+.Conc{
+    font-size: 200%;
+}
+/* Footer section */
+#footer{
+    text-align: center;
+}
+.Phone{
+    padding-top:5%;
+    padding-bottom: 3%;
+    font-size: 20px;
+}
+.Foot{
+    padding: 2% 1%;
+}
